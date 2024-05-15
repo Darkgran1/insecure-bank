@@ -1,0 +1,313 @@
+{
+  "snippetMatches": {
+    "UNKNOWN": [
+      {
+        "projectName": "Hashicorp/Activiti",
+        "releaseVersion": "activiti-6.0.0.Beta1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/Activiti-65511804bbaabf8bf5470320c4aa0a176884d443/modules/activiti-rest/src/main/java/org/activiti/rest/security/BasicAuthenticationProvider.java",
+        "regions": {
+          "sourceStartLines": [
+            9
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            10
+          ],
+          "matchedEndLines": [
+            25
+          ]
+        }
+      },
+      {
+        "projectName": "backkoms/simplemall",
+        "releaseVersion": "v2.1",
+        "licenseDefinition": {
+          "name": "Unknown License",
+          "ownership": "UNKNOWN",
+          "licenseDisplayName": "Unknown License"
+        },
+        "matchedFilePath": "/simplemall-2.1/front-app/src/main/java/com/simplemall/micro/serv/page/security/CustomAuthenticationProvider.java",
+        "regions": {
+          "sourceStartLines": [
+            9
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            5
+          ],
+          "matchedEndLines": [
+            17
+          ]
+        }
+      },
+      {
+        "projectName": "bodia/Snailbucket-WEBAPP",
+        "releaseVersion": "20151011-snapshot-c1cc898d",
+        "licenseDefinition": {
+          "name": "Unknown License",
+          "ownership": "UNKNOWN",
+          "licenseDisplayName": "Unknown License"
+        },
+        "matchedFilePath": "/Snailbucket-WEBAPP-c1cc898dce3a7b1561adea2277720fe696fca257/src/main/java/net/rwchess/config/CustomAuthenticationProvider.java",
+        "regions": {
+          "sourceStartLines": [
+            9
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            6
+          ],
+          "matchedEndLines": [
+            29
+          ]
+        }
+      },
+      {
+        "projectName": "cloud-workspace",
+        "releaseVersion": "20150708-snapshot-54292239",
+        "licenseDefinition": {
+          "name": "Unknown License",
+          "ownership": "UNKNOWN",
+          "licenseDisplayName": "Unknown License"
+        },
+        "matchedFilePath": "/cloud-workspace-5429223941e7b13fd0fe788920b4d11ee4de8781/cf-SpringBootTrader/springboottrades-web/src/main/java/io/pivotal/web/security/CustomAuthenticationProvider.java",
+        "regions": {
+          "sourceStartLines": [
+            9
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            11
+          ],
+          "matchedEndLines": [
+            30
+          ]
+        }
+      },
+      {
+        "projectName": "flowable-engine",
+        "releaseVersion": "flowable-6.3.0",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/flowable-engine-flowable-6.3.0/modules/flowable-cmmn-rest/src/main/java/org/flowable/cmmn/rest/security/BasicAuthenticationProvider.java",
+        "regions": {
+          "sourceStartLines": [
+            9
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            11
+          ],
+          "matchedEndLines": [
+            27
+          ]
+        }
+      }
+    ],
+    "RECIPROCAL": [
+      {
+        "projectName": "egovernments/egov-smartcity-suite",
+        "releaseVersion": "1.0.0.RELEASE",
+        "licenseDefinition": {
+          "licenseDisplayName": "(GNU Affero General Public License v3.0 AND GNU General Public License v3.0 or later)"
+        },
+        "matchedFilePath": "/egov-smartcity-suite-9e269f9f060c58c10d182bef1b60d6a349fa0f62/egov/egov-api/src/main/java/org/egov/api/oauth2/provider/CustomAuthenticationProvider.java",
+        "regions": {
+          "sourceStartLines": [
+            9
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            47
+          ],
+          "matchedEndLines": [
+            71
+          ]
+        }
+      }
+    ],
+    "PERMISSIVE": [
+      {
+        "projectName": "Hashicorp/Activiti",
+        "releaseVersion": "activiti-5.16.4",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "activiti-5.16.4/libs/activiti-rest-5.16.4-sources.jar!/#/org/activiti/rest/security/BasicAuthenticationProvider.java",
+        "regions": {
+          "sourceStartLines": [
+            9
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            10
+          ],
+          "matchedEndLines": [
+            26
+          ]
+        }
+      },
+      {
+        "projectName": "flowable-engine",
+        "releaseVersion": "flowable-6.0.0.RC1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/flowable-engine-flowable-6.0.0.RC1/modules/flowable-rest/src/main/java/org/flowable/rest/security/BasicAuthenticationProvider.java",
+        "regions": {
+          "sourceStartLines": [
+            9
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            10
+          ],
+          "matchedEndLines": [
+            25
+          ]
+        }
+      },
+      {
+        "projectName": "apache/incubator",
+        "releaseVersion": "release-0.7-rc2",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/incubator-atlas-15748e7bc5ed019a63326f201258e3a55d512d96/webapp/src/main/java/org/apache/atlas/web/security/AtlasFileAuthenticationProvider.java",
+        "regions": {
+          "sourceStartLines": [
+            9
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            24
+          ],
+          "matchedEndLines": [
+            44
+          ]
+        }
+      },
+      {
+        "projectName": "apache/incubator",
+        "releaseVersion": "release-0.8-rc0",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/incubator-atlas-764b20753d69ea32247785484471f1409400053c/webapp/src/main/java/org/apache/atlas/web/security/AtlasFileAuthenticationProvider.java",
+        "regions": {
+          "sourceStartLines": [
+            9
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            25
+          ],
+          "matchedEndLines": [
+            45
+          ]
+        }
+      },
+      {
+        "projectName": "flowable-engine",
+        "releaseVersion": "flowable-6.4.0",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/flowable-engine-987ad0e9cde4a71d4dc70a625e1173b262618466/modules/flowable-cmmn-rest/src/main/java/org/flowable/cmmn/rest/security/BasicAuthenticationProvider.java",
+        "regions": {
+          "sourceStartLines": [
+            9
+          ],
+          "sourceEndLines": [
+            41
+          ],
+          "matchedStartLines": [
+            11
+          ],
+          "matchedEndLines": [
+            27
+          ]
+        }
+      },
+      {
+        "projectName": "OpenConext",
+        "releaseVersion": "4.0.22",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/OpenConext-manage-b6c333e4af7d7a38dc3853874d70fee939e12f71/manage-server/src/main/java/manage/api/APIAuthenticationManager.java",
+        "regions": {
+          "sourceStartLines": [
+            9
+          ],
+          "sourceEndLines": [
+            38
+          ],
+          "matchedStartLines": [
+            3
+          ],
+          "matchedEndLines": [
+            29
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "href": "https://testing.blackduck.synopsys.com/api/snippet-matching",
+    "links": [
+      {
+        "rel": "licenses-description",
+        "href": "https://www.synopsys.com/glossary/what-are-open-source-licenses.html"
+      }
+    ]
+  }
+}
