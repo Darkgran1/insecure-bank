@@ -3,7 +3,9 @@ name: "Upload SARIF"
 on:
   push:
     branches:
-      - main
+      - master
+      - Darkgran1-GAI-demo-1
+      - Darkgran1-GAI-demo
 
 jobs:
   build:
