@@ -1,0 +1,39 @@
+{
+  "snippetMatches": {
+    "UNKNOWN": [
+      {
+        "projectName": "JoyChou93/java-sec-code",
+        "releaseVersion": "v2.0.0",
+        "licenseDefinition": {
+          "name": "Unknown License",
+          "ownership": "UNKNOWN",
+          "licenseDisplayName": "Unknown License"
+        },
+        "matchedFilePath": "/java-sec-code-2aa0b91a1689c341d3a09b93dd070c78bd2ef287/src/main/java/org/joychou/util/WebUtils.java",
+        "regions": {
+          "sourceStartLines": [
+            18
+          ],
+          "sourceEndLines": [
+            29
+          ],
+          "matchedStartLines": [
+            38
+          ],
+          "matchedEndLines": [
+            50
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "href": "https://testing.blackduck.synopsys.com/api/snippet-matching",
+    "links": [
+      {
+        "rel": "licenses-description",
+        "href": "https://www.synopsys.com/glossary/what-are-open-source-licenses.html"
+      }
+    ]
+  }
+}
