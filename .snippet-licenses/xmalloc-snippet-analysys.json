@@ -1,0 +1,112 @@
+{
+  "snippetMatches": {
+    "RECIPROCAL": [
+      {
+        "projectName": "Bash",
+        "releaseVersion": "4.1",
+        "licenseDefinition": {
+          "name": "GNU General Public License v3.0 or later",
+          "spdxId": "GPL-3.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU General Public License v3.0 or later"
+        },
+        "matchedFilePath": "/bash-4.1/xmalloc.c",
+        "regions": {
+          "sourceStartLines": [
+            1
+          ],
+          "sourceEndLines": [
+            223
+          ],
+          "matchedStartLines": [
+            1
+          ],
+          "matchedEndLines": [
+            221
+          ]
+        }
+      },
+      {
+        "projectName": "Bash",
+        "releaseVersion": "4.4",
+        "licenseDefinition": {
+          "name": "GNU General Public License v3.0 or later",
+          "spdxId": "GPL-3.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU General Public License v3.0 or later"
+        },
+        "matchedFilePath": "/bash-4.4/xmalloc.c",
+        "regions": {
+          "sourceStartLines": [
+            1
+          ],
+          "sourceEndLines": [
+            223
+          ],
+          "matchedStartLines": [
+            1
+          ],
+          "matchedEndLines": [
+            221
+          ]
+        }
+      },
+      {
+        "projectName": "Bash",
+        "releaseVersion": "bash-5.0-alpha",
+        "licenseDefinition": {
+          "licenseDisplayName": "(GNU Affero General Public License v3.0 AND GNU General Public License v3.0 or later)"
+        },
+        "matchedFilePath": "/./xmalloc.c",
+        "regions": {
+          "sourceStartLines": [
+            1
+          ],
+          "sourceEndLines": [
+            223
+          ],
+          "matchedStartLines": [
+            1
+          ],
+          "matchedEndLines": [
+            223
+          ]
+        }
+      },
+      {
+        "projectName": "Bash",
+        "releaseVersion": "bash-5.1-beta",
+        "licenseDefinition": {
+          "name": "GNU General Public License v3.0 or later",
+          "spdxId": "GPL-3.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU General Public License v3.0 or later"
+        },
+        "matchedFilePath": "/./xmalloc.c",
+        "regions": {
+          "sourceStartLines": [
+            1
+          ],
+          "sourceEndLines": [
+            223
+          ],
+          "matchedStartLines": [
+            1
+          ],
+          "matchedEndLines": [
+            223
+          ]
+        }
+      }
+    ]
+  },
+  "_meta": {
+    "href": "https://testing.blackduck.synopsys.com/api/snippet-matching",
+    "links": [
+      {
+        "rel": "licenses-description",
+        "href": "https://www.synopsys.com/glossary/what-are-open-source-licenses.html"
+      }
+    ]
+  }
+}
