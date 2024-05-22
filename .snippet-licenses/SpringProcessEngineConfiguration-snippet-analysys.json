@@ -2,6 +2,156 @@
   "snippetMatches": {
     "UNKNOWN": [
       {
+        "projectName": "Hashicorp/Activiti",
+        "releaseVersion": "activiti-6.0.0.Beta1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/Activiti-65511804bbaabf8bf5470320c4aa0a176884d443/modules/activiti-spring/src/main/java/org/activiti/spring/SpringProcessEngineConfiguration.java",
+        "regions": {
+          "sourceStartLines": [
+            11
+          ],
+          "sourceEndLines": [
+            174
+          ],
+          "matchedStartLines": [
+            11
+          ],
+          "matchedEndLines": [
+            177
+          ]
+        }
+      },
+      {
+        "projectName": "Hashicorp/Activiti",
+        "releaseVersion": "activiti-6.0.0.Beta3",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/Activiti-5826a3753b4b68dca74f9af3dcc4bd2c50bdd4b7/modules/activiti-spring/src/main/java/org/activiti/spring/SpringProcessEngineConfiguration.java",
+        "regions": {
+          "sourceStartLines": [
+            11
+          ],
+          "sourceEndLines": [
+            174
+          ],
+          "matchedStartLines": [
+            11
+          ],
+          "matchedEndLines": [
+            177
+          ]
+        }
+      },
+      {
+        "projectName": "Hashicorp/Activiti",
+        "releaseVersion": "v7.0.100",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/Activiti-9ab9277d2e88a3521611e730dfb1fc46eb761ff0/activiti-spring/src/main/java/org/activiti/spring/SpringProcessEngineConfiguration.java",
+        "regions": {
+          "sourceStartLines": [
+            11
+          ],
+          "sourceEndLines": [
+            174
+          ],
+          "matchedStartLines": [
+            11
+          ],
+          "matchedEndLines": [
+            187
+          ]
+        }
+      },
+      {
+        "projectName": "Hashicorp/Activiti",
+        "releaseVersion": "v7.0.1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/Activiti-bfc554c06c766cce3cee31ab44bc608960286f66/activiti-spring/src/main/java/org/activiti/spring/SpringProcessEngineConfiguration.java",
+        "regions": {
+          "sourceStartLines": [
+            11
+          ],
+          "sourceEndLines": [
+            174
+          ],
+          "matchedStartLines": [
+            11
+          ],
+          "matchedEndLines": [
+            183
+          ]
+        }
+      },
+      {
+        "projectName": "flowable-engine",
+        "releaseVersion": "flowable-6.2.1",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/flowable-engine-flowable-6.2.1/modules/flowable-spring/src/main/java/org/flowable/spring/SpringProcessEngineConfiguration.java",
+        "regions": {
+          "sourceStartLines": [
+            25
+          ],
+          "sourceEndLines": [
+            174
+          ],
+          "matchedStartLines": [
+            27
+          ],
+          "matchedEndLines": [
+            182
+          ]
+        }
+      },
+      {
+        "projectName": "flowable-engine",
+        "releaseVersion": "flowable-6.3.0",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/flowable-engine-flowable-6.3.0/modules/flowable-spring/src/main/java/org/flowable/spring/SpringProcessEngineConfiguration.java",
+        "regions": {
+          "sourceStartLines": [
+            25
+          ],
+          "sourceEndLines": [
+            172
+          ],
+          "matchedStartLines": [
+            28
+          ],
+          "matchedEndLines": [
+            184
+          ]
+        }
+      },
+      {
         "projectName": "flowable-engine",
         "releaseVersion": "flowable-6.3.1",
         "licenseDefinition": {
@@ -10,123 +160,19 @@
           "ownership": "OPEN_SOURCE",
           "licenseDisplayName": "Apache License 2.0"
         },
-        "matchedFilePath": "/flowable-engine-flowable-6.3.1/modules/flowable-spring-common/src/main/java/org/flowable/common/spring/SpringTransactionContext.java",
+        "matchedFilePath": "/flowable-engine-flowable-6.3.1/modules/flowable-spring/src/main/java/org/flowable/spring/SpringProcessEngineConfiguration.java",
         "regions": {
           "sourceStartLines": [
-            18
+            25
           ],
           "sourceEndLines": [
-            139
+            172
           ],
           "matchedStartLines": [
-            18
+            29
           ],
           "matchedEndLines": [
-            139
-          ]
-        }
-      }
-    ],
-    "RECIPROCAL": [
-      {
-        "projectName": "camunda BPM platform",
-        "releaseVersion": "7.1.0",
-        "licenseDefinition": {
-          "name": "Creative Commons Attribution Share Alike 3.0",
-          "spdxId": "CC-BY-SA-3.0",
-          "ownership": "OPEN_SOURCE",
-          "licenseDisplayName": "Creative Commons Attribution Share Alike 3.0"
-        },
-        "matchedFilePath": "/camunda-bpm-platform-7.1.0-Final/engine-spring/src/main/java/org/camunda/bpm/engine/spring/SpringTransactionContext.java",
-        "regions": {
-          "sourceStartLines": [
-            18
-          ],
-          "sourceEndLines": [
-            100
-          ],
-          "matchedStartLines": [
-            19
-          ],
-          "matchedEndLines": [
-            84
-          ]
-        }
-      },
-      {
-        "projectName": "workflow4people",
-        "releaseVersion": "17.06RC3",
-        "licenseDefinition": {
-          "name": "GNU Affero General Public License v3.0",
-          "spdxId": "AGPL-3.0",
-          "ownership": "OPEN_SOURCE",
-          "licenseDisplayName": "GNU Affero General Public License v3.0"
-        },
-        "matchedFilePath": "workflow4people-17.06RC3/lib-src/activiti-spring-5.12-sources.jar!/#/org/activiti/spring/SpringTransactionContext.java",
-        "regions": {
-          "sourceStartLines": [
-            11
-          ],
-          "sourceEndLines": [
-            100
-          ],
-          "matchedStartLines": [
-            11
-          ],
-          "matchedEndLines": [
-            84
-          ]
-        }
-      }
-    ],
-    "WEAK_RECIPROCAL": [
-      {
-        "projectName": "Alfresco Content Management Community Edition",
-        "releaseVersion": "V4.2d",
-        "licenseDefinition": {
-          "name": "GNU Lesser General Public License v2.1 or later",
-          "spdxId": "LGPL-2.1-or-later",
-          "ownership": "OPEN_SOURCE",
-          "licenseDisplayName": "GNU Lesser General Public License v2.1 or later"
-        },
-        "matchedFilePath": "community-edition-old-4.2d/root/projects/3rd-party/src/activiti-spring-5.13-alf-20130820-sources.jar!/#/org/activiti/spring/SpringTransactionContext.java",
-        "regions": {
-          "sourceStartLines": [
-            11
-          ],
-          "sourceEndLines": [
-            100
-          ],
-          "matchedStartLines": [
-            11
-          ],
-          "matchedEndLines": [
-            97
-          ]
-        }
-      },
-      {
-        "projectName": "Alfresco Content Management Community Edition",
-        "releaseVersion": "V4.2a",
-        "licenseDefinition": {
-          "name": "GNU Lesser General Public License v2.1 or later",
-          "spdxId": "LGPL-2.1-or-later",
-          "ownership": "OPEN_SOURCE",
-          "licenseDisplayName": "GNU Lesser General Public License v2.1 or later"
-        },
-        "matchedFilePath": "community-edition-old-4.2a/root/projects/3rd-party/src/activiti-spring-5.7-20120905-sources.jar!/#/org/activiti/spring/SpringTransactionContext.java",
-        "regions": {
-          "sourceStartLines": [
-            11
-          ],
-          "sourceEndLines": [
-            98
-          ],
-          "matchedStartLines": [
-            11
-          ],
-          "matchedEndLines": [
-            81
+            200
           ]
         }
       }
@@ -134,76 +180,26 @@
     "PERMISSIVE": [
       {
         "projectName": "Hashicorp/Activiti",
-        "releaseVersion": "5.1",
+        "releaseVersion": "activiti-5.16",
         "licenseDefinition": {
           "name": "Apache License 2.0",
           "spdxId": "Apache-2.0",
           "ownership": "OPEN_SOURCE",
           "licenseDisplayName": "Apache License 2.0"
         },
-        "matchedFilePath": "activiti-5.1/setup/files/dependencies/libs/activiti-spring-5.1-sources.jar!/#/org/activiti/spring/SpringTransactionContext.java",
+        "matchedFilePath": "/Activiti-bd17ea85fc88b0a7e0b97948ee63764081c4015a/modules/activiti-spring/src/main/java/org/activiti/spring/SpringProcessEngineConfiguration.java",
         "regions": {
           "sourceStartLines": [
             11
           ],
           "sourceEndLines": [
-            98
+            174
           ],
           "matchedStartLines": [
             11
           ],
           "matchedEndLines": [
-            81
-          ]
-        }
-      },
-      {
-        "projectName": "Hashicorp/Activiti",
-        "releaseVersion": "activiti-5.14",
-        "licenseDefinition": {
-          "name": "Apache License 2.0",
-          "spdxId": "Apache-2.0",
-          "ownership": "OPEN_SOURCE",
-          "licenseDisplayName": "Apache License 2.0"
-        },
-        "matchedFilePath": "/Activiti-1e70b51af58798f0687f4a8eff90d0811dcf89e8/modules/activiti-spring/src/main/java/org/activiti/spring/SpringTransactionContext.java",
-        "regions": {
-          "sourceStartLines": [
-            11
-          ],
-          "sourceEndLines": [
-            100
-          ],
-          "matchedStartLines": [
-            11
-          ],
-          "matchedEndLines": [
-            97
-          ]
-        }
-      },
-      {
-        "projectName": "Hashicorp/Activiti",
-        "releaseVersion": "activiti-5.11",
-        "licenseDefinition": {
-          "name": "Apache License 2.0",
-          "spdxId": "Apache-2.0",
-          "ownership": "OPEN_SOURCE",
-          "licenseDisplayName": "Apache License 2.0"
-        },
-        "matchedFilePath": "/Activiti-462ae7d153f8461fb0fffa33f97ba997bcbd9471/modules/activiti-spring/src/main/java/org/activiti/spring/SpringTransactionContext.java",
-        "regions": {
-          "sourceStartLines": [
-            11
-          ],
-          "sourceEndLines": [
-            100
-          ],
-          "matchedStartLines": [
-            11
-          ],
-          "matchedEndLines": [
-            84
+            182
           ]
         }
       },
@@ -216,69 +212,44 @@
           "ownership": "OPEN_SOURCE",
           "licenseDisplayName": "Apache License 2.0"
         },
-        "matchedFilePath": "activiti-5.16.4/libs/activiti-spring-5.16.4-sources.jar!/#/org/activiti/spring/SpringTransactionContext.java",
+        "matchedFilePath": "/Activiti-4739d4ee606f1ad311d19119bbaf6291557a0c7c/modules/activiti-spring/src/main/java/org/activiti/spring/SpringProcessEngineConfiguration.java",
         "regions": {
           "sourceStartLines": [
             11
           ],
           "sourceEndLines": [
-            100
+            174
           ],
           "matchedStartLines": [
             11
           ],
           "matchedEndLines": [
-            97
-          ]
-        }
-      },
-      {
-        "projectName": "camunda BPM platform",
-        "releaseVersion": "7.0.0-alpha1",
-        "licenseDefinition": {
-          "name": "Apache License 2.0",
-          "spdxId": "Apache-2.0",
-          "ownership": "OPEN_SOURCE",
-          "licenseDisplayName": "Apache License 2.0"
-        },
-        "matchedFilePath": "/camunda-bpm-platform-7.0.0-alpha1/engine-spring/src/main/java/org/camunda/bpm/engine/spring/SpringTransactionContext.java",
-        "regions": {
-          "sourceStartLines": [
-            18
-          ],
-          "sourceEndLines": [
-            100
-          ],
-          "matchedStartLines": [
-            19
-          ],
-          "matchedEndLines": [
-            84
+            180
           ]
         }
       },
       {
         "projectName": "Hashicorp/Activiti",
-        "releaseVersion": "activiti-6.0.0.Beta1",
+        "releaseVersion": "7.0.0.Beta1",
         "licenseDefinition": {
           "name": "Apache License 2.0",
           "spdxId": "Apache-2.0",
           "ownership": "OPEN_SOURCE",
           "licenseDisplayName": "Apache License 2.0"
         },
-        "matchedFilePath": "/Activiti-65511804bbaabf8bf5470320c4aa0a176884d443/modules/activiti-spring/src/main/java/org/activiti/spring/SpringTransactionContext.java",
+        "matchedFilePath": "/Activiti-268962fbda85828ba0f88d39ba5cd7fa2e9fb4f0/activiti-spring/src/main/java/org/activiti/spring/SpringProcessEngineConfiguration.java",
         "regions": {
           "sourceStartLines": [
             11
           ],
           "sourceEndLines": [
-            100
+            174
           ],
           "matchedStartLines": [
             11
           ],
           "matchedEndLines": [
-            97
+            183
           ]
         }
       },
@@ -291,19 +262,73 @@
           "ownership": "OPEN_SOURCE",
           "licenseDisplayName": "Apache License 2.0"
         },
-        "matchedFilePath": "/Activiti-activiti-7-201708-EA/activiti-spring/src/main/java/org/activiti/spring/SpringTransactionContext.java",
+        "matchedFilePath": "/Activiti-activiti-7-201708-EA/activiti-spring/src/main/java/org/activiti/spring/SpringProcessEngineConfiguration.java",
         "regions": {
           "sourceStartLines": [
             11
           ],
           "sourceEndLines": [
-            100
+            174
           ],
           "matchedStartLines": [
             11
           ],
           "matchedEndLines": [
-            97
+            183
+          ]
+        }
+      },
+      {
+        "projectName": "Hashicorp/Activiti",
+        "releaseVersion": "v7.1.226",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/Activiti-122d1302679ec4e161dcbebb7f077256d1bc454e/activiti-core/activiti-spring/src/main/java/org/activiti/spring/SpringProcessEngineConfiguration.java",
+        "regions": {
+          "sourceStartLines": [
+            11
+          ],
+          "sourceEndLines": [
+            174
+          ],
+          "matchedStartLines": [
+            14
+          ],
+          "matchedEndLines": [
+            196
+          ]
+        }
+      },
+      {
+        "projectName": "Hashicorp/Activiti",
+        "releaseVersion": "v7.1.82",
+        "licenseDefinition": {
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "Apache License 2.0"
+        },
+        "matchedFilePath": "/Activiti-a655476b08df4500ff4130004f09bec9a588efa4/activiti-spring/src/main/java/org/activiti/spring/SpringProcessEngineConfiguration.java",
+        "regions": {
+          "sourceStartLines": [
+            11,
+            47
+          ],
+          "sourceEndLines": [
+            36,
+            174
+          ],
+          "matchedStartLines": [
+            11,
+            54
+          ],
+          "matchedEndLines": [
+            37,
+            196
           ]
         }
       }
