@@ -5,7 +5,7 @@ on:
     types: [opened, reopened]
 
 jobs:
-  analyze-snippets: 
+  analyze-snippets-demo: 
     runs-on: ubuntu-latest
     permissions:
       issues: write
