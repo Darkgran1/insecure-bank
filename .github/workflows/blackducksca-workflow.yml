@@ -18,6 +18,14 @@ on:
 jobs:
   blackducksca:
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+      # required for all workflows
+      security-events: write
+      # only required for workflows in private repositories
+      actions: read
+      contents: read
     steps:
       - name: Checkout Source
         uses: actions/checkout@v4
