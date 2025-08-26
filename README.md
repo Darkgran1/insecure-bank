@@ -1,5 +1,7 @@
 # Insecure Bank
 ![Insecure-Bank](https://hdivsecurity.com/img/bank.png)
+
+Black Duck SCA Status badge [![Black Duck Security Scan](https://github.com/Darkgran1/insecure-bank/actions/workflows/blackducksca-workflow.yml/badge.svg)](https://github.com/Darkgran1/insecure-bank/actions/workflows/blackducksca-workflow.yml)
 ## Running the application locally
 
 1. Clone the repository:
