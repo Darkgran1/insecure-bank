@@ -44,3 +44,5 @@ jobs:
           blackducksca_reports_sarif_create: false
           blackducksca_upload_sarif_report: false
           detect_args: '--detect.excluded.detector.types=GIT'
+          blackducksca_policy_badges_create: true
+          blackducksca_policy_badges_maxCount: 5
